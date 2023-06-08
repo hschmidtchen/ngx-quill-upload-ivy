@@ -1,4 +1,4 @@
-# ngx-quill-upload (Angular 4+) (v2.0)
+# ngx-quill-upload-ivy (Angular 15+)
 
 <img src="https://www.code-inspector.com/project/13693/score/svg"> <img src="https://www.code-inspector.com/project/13693/status/svg"> <img src="https://img.shields.io/npm/dw/ngx-quill-upload"> <img src="https://img.shields.io/npm/l/ngx-quill-upload">
 
@@ -7,13 +7,13 @@ A module for images and videos to be uploaded to a server instead of being base6
 ## Features
 
 - Written in typescript
-- Bundled in both FESM2015 and UMD formats
-- Just 6.4KB (2.4 KB gzipped)
+- Bundled in both esm2022 and fesm2022 formats
 - Gives you full control over API call, upload to S3 or server as required
 - Supports png, jpg and jpeg for image uploads
 - Supports mp4 and webm for video uploads
 - Supports ```<img>``` tag for image uploads, ```<video>``` tag for video uploads
 - Based on quill-upload by [john-techfox](https://github.com/john-techfox/quill-upload)
+- Based on ngx-quill-upload by [ayush013](https://github.com/ayush013/ngx-quill-upload)
 
 ## Updates
 
@@ -34,7 +34,7 @@ A module for images and videos to be uploaded to a server instead of being base6
 
 ## NPM Directory
 
-[ngx-quill-upload](https://www.npmjs.com/package/ngx-quill-upload)
+[ngx-quill-upload-ivy](https://www.npmjs.com/package/ngx-quill-upload-ivy)
 
 ## Usage
 
